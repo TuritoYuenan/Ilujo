@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/turit/Documents/Ilujo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2525" />
+        <entry key="..\:/Users/turit/Documents/Ilujo/app/src/main/res/drawable-v24/ic_tool_background.xml" value="0.229" />
+        <entry key="..\:/Users/turit/Documents/Ilujo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2525" />
+        <entry key="..\:/Users/turit/Documents/Ilujo/app/src/main/res/drawable/ic_tool_calculator.xml" value="0.229" />
+        <entry key="..\:/Users/turit/Documents/Ilujo/app/src/main/res/drawable/ic_tool_conv_area.xml" value="0.2525" />
+        <entry key="..\:/Users/turit/Documents/Ilujo/app/src/main/res/drawable/ic_tool_luxmeter.xml" value="0.2525" />
+        <entry key="..\:/Users/turit/Documents/Ilujo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.229" />
+        <entry key="..\:/Users/turit/Documents/Toolbox/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3135" />
+        <entry key="..\:/Users/turit/Documents/Toolbox/app/src/main/res/drawable/ic_yuenan_withbg.xml" value="0.245" />
+        <entry key="..\:/Users/turit/Documents/Toolbox/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3135" />
+        <entry key="..\:/Users/turit/Documents/Toolbox/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="Toolbox.app" />
+      </set>
+    </option>
+  </component>
+</project>

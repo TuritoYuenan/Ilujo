@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name" translatable="false">Ilujo</string>
+	<string name="title_activity_phone_info">Phone Info</string>
+	<string name="title_activity_conv_area">Area Converter</string>
+</resources>
